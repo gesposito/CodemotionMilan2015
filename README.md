@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/) since I'm forking it to [CodemotionRome2016](https://github.com/gesposito/CodemotionRome2016)
+
 This repository contains code for my [Codemotion Milan 2015 Conference](http://milan2015.codemotionworld.com/conference/) App (mostly a proof of concept).
 
 Here is the final result:
